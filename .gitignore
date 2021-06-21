@@ -17,5 +17,6 @@ node_modules/
 .idea
 .vscode
 config.json
-db/*
-!db/sample.members.json
+
+
+keys/*
