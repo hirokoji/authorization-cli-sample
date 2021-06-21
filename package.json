@@ -29,6 +29,7 @@
     "@types/node": "^13.7.6",
     "@typescript-eslint/eslint-plugin": "^2.21.0",
     "@typescript-eslint/parser": "^2.21.0",
+    "authorization-server-sample": "github:hirokoji/authorization-server-sample",
     "eslint": "^6.8.0",
     "eslint-config-prettier": "^6.10.0",
     "eslint-plugin-prettier": "^3.1.2",
@@ -49,6 +50,7 @@
     "url": "https://github.com/hirokoji/your-cli-tool/issues"
   },
   "dependencies": {
+    "commander": "^7.2.0",
     "node-jsonwebtoken": "^0.0.1"
   }
 }
